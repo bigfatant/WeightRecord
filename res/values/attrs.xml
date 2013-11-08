@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="layout_custom_orientation">
+        <attr name="attr1" format="boolean" />
+        <attr name="attr2" format="integer" />
+        <attr name="orientation">
+            <enum name="vertical" value="1"></enum>
+            <enum name="horizontal" value="0"></enum>
+        </attr>
+    </declare-styleable>
+
+</resources>

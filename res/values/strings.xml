@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我爱好身材</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_weightrecord">称一称</string>
+    <string name="weight">体重为</string>
+    <string name="weightunit">(kg)</string>
+    <string name="islimosis">空腹</string>
+    <string name="isclear">净重</string>
+    <string name="title_activity_record">RecordActivity</string>
+
+</resources>
