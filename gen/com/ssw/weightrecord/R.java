@@ -81,8 +81,9 @@ containing a value of this type.
         public static final int whatsnew_right_m=0x7f020014;
     }
     public static final class id {
-        public static final int action_settings=0x7f060010;
+        public static final int action_settings=0x7f060014;
         public static final int animLayout=0x7f060007;
+        public static final int checkBox1=0x7f060010;
         public static final int et_value_weight=0x7f06000c;
         public static final int horizontal=0x7f060001;
         public static final int leftLayout=0x7f060008;
@@ -93,10 +94,13 @@ containing a value of this type.
         public static final int rightLayout=0x7f060009;
         public static final int startBtn=0x7f060005;
         public static final int t1=0x7f060004;
+        public static final int timePicker1=0x7f060013;
+        public static final int tv_datetime=0x7f060012;
         public static final int tv_lab_isclear=0x7f06000e;
         public static final int tv_lab_islimosis=0x7f06000f;
         public static final int tv_lab_weight=0x7f06000b;
         public static final int tv_lab_weight_unit=0x7f06000d;
+        public static final int tv_lb_datetime=0x7f060011;
         public static final int vertical=0x7f060000;
     }
     public static final class layout {
@@ -110,10 +114,13 @@ containing a value of this type.
     public static final class string {
         public static final int action_settings=0x7f080001;
         public static final int app_name=0x7f080000;
+        public static final int btn_cancel=0x7f08000b;
+        public static final int btn_save=0x7f08000a;
+        public static final int datetime=0x7f080008;
         public static final int hello_world=0x7f080002;
         public static final int isclear=0x7f080007;
         public static final int islimosis=0x7f080006;
-        public static final int title_activity_record=0x7f080008;
+        public static final int title_activity_record=0x7f080009;
         public static final int title_weightrecord=0x7f080003;
         public static final int weight=0x7f080004;
         public static final int weightunit=0x7f080005;
